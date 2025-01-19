@@ -17,6 +17,8 @@ in real-time over a network. This type of application leverages the concept of m
 multiple client connections simultaneously, ensuring smooth and efficient communication
 
 **OUTPUT**
+
+<br>
 Welcome to CLIENT-SERVER CHAT APPLICATION...
 <br>
 Chat server started...
